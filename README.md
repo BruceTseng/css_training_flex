@@ -1,6 +1,7 @@
 # Flex
 
 ## Demo
+[Demo](https://brucetseng.github.io/css_training_flex/)
 ` https://brucetseng.github.io/css_training_flex/`
 
 ## Development server
