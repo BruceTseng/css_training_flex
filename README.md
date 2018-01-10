@@ -1,6 +1,7 @@
 # Flex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
+## Demo
+` https://brucetseng.github.io/css_training_flex/`
 
 ## Development server
 
